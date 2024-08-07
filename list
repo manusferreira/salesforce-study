@@ -1,0 +1,14 @@
+<title>Estudos para formação Admin SaLesforce</title>
+</head>
+<body>
+    <ul>
+        <li>Módulo 1 - Visão Geral</li>
+    </ul>
+    <ol>
+        <li>Noções básicas do usuário do Salesforce - https://trailhead.salesforce.com/pt-BR/content/learn/modules/lex_salesforce_basics</li>
+        <li>Noções básicas da Salesforce Platform - https://trailhead.salesforce.com/pt-BR/content/learn/modules/lex_salesforce_basics</li>
+        <li>Configurações da organização da empresa - https://trailhead.salesforce.com/pt-BR/content/learn/modules/company_wide_org_settings?trail_id=integrate-a-new-business-organization</li>
+        <li> Definir seu ano fiscal - https://help.salesforce.com/s/articleView?id=sf.admin_about_cfy.htm&type=5</li>
+        <li>Modelagem de dados - https://trailhead.salesforce.com/pt-BR/content/learn/modules/data_modeling</li>
+    </ol>
+</body>
